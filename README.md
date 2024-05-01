@@ -1,0 +1,7 @@
+- 👋 Hi, this account was created @JustToLearnSolidity
+- 👀 I’m interested in web3/blockchain
+- 🌱 I’m currently learning solidity, 
+- 💞️ I’m looking to collaborate on dapps
+- 📫 How to reach me bartlomiejcaine@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Did you know that the first transaction using blockchain involved buying pizza? Yes, in May 2010, programmer Laszlo Hanyecz paid 10,000 bitcoins for two pizzas. Now, with a bitcoin pizza costing billions of dollars, you could say that was one seriously expensive feast!
